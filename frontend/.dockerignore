@@ -1,0 +1,20 @@
+# Ignore .git directory 
+.git
+
+# Ignore node_modules 
+node_modules
+
+# Ignore .env file 
+.env
+Dockerfile
+
+# Ignore build outputs
+build/
+dist/
+
+
+# Ignore README.md
+README.md
+
+# Ignore package-lock.json
+package-lock.json
